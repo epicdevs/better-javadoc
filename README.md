@@ -7,7 +7,7 @@ Currently I only tested it to javadocs generated with JDK 1.7.
 ## HOW-TO
 
 ### 1. Copy files
-- Copy better-javadoc.js and better-javadoc.css to the javadoc directory.
+- Copy `better-javadoc.js` and `better-javadoc.css` to the javadoc directory.
 
 ### 2. Configure better.py
 - Modify `href` and `src` of variable `rep` to a proper absolute path so that each html can access `better-javadoc.js` and `better-javadoc.css` when it is uploaded on the server.
