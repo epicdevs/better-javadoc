@@ -1,8 +1,8 @@
 # better-javadoc
 Currently I only tested it to javadocs generated with JDK 1.7.
 
-    Demo: http://epicdevs.github.io/better-javadoc-example/
-
+## Demo
+[http://epicdevs.github.io/better-javadoc-example/](http://epicdevs.github.io/better-javadoc-example/)
 
 ## HOW-TO
 
