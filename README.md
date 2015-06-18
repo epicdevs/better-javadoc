@@ -13,7 +13,7 @@ Currently I only tested it to javadocs generated with JDK 1.7.
 - Copy `better-javadoc.js` and `better-javadoc.css` to the javadoc directory.
 
 ### 2. Configure better.py
-- Modify `href` and `src` of variable `rep` to a proper path so that each html can access `better-javadoc.js` and `better-javadoc.css` when it is uploaded on the server.
+- Modify `href` and `src` of variable `rep` to a proper path so that each html can access `better-javadoc.js` and `better-javadoc.css` when uploaded on the server.
 
 ### 3. Configure better-javadoc.js
 - Change `disqus_shortname` to your own [disqus](http://disqus.com) site name.
