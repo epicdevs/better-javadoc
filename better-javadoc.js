@@ -1,9 +1,7 @@
 var disqus_shortname = 'betterjavadocexample';
 
 (function() {
-    document.body.innerHTML += 
-            '<img class="bj-ad-img" src="//lh5.ggpht.com/NFYFP2H9CCP50vAQNLa7AtCj_mbbYmOzY978fZqd31oL5qOdvXgxU3KW8ek2VgvIOvTqWY0=w728">' + 
-            '<div id="disqus_thread"></div>';
+    document.body.innerHTML += '<div id="disqus_thread"></div>';
 })();
 
 (function() {
