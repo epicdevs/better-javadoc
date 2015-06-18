@@ -17,10 +17,6 @@ Currently I only tested it to javadocs generated with JDK 1.7.
 
 ### 3. Configure better-javadoc.js
 - Change `disqus_shortname` to your own [disqus](http://disqus.com) site name.
-- Modify the first function which appends DOM elements at the end of the document body.
 
-### 4. Configure better-javadoc.css
-- Modify styles to arrange the appended DOM elements.
-
-### 5. Run better.py
+### 4. Run better.py
     python better.py javadoc-directory
