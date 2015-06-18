@@ -1,4 +1,7 @@
 # better-javadoc
+better-javadoc makes javadocs as commentable documents. Each package and class has its own separate commenting thread so people can post questions and discussions directly on the related javadoc.
+
+## JDK Support
 Currently I only tested it to javadocs generated with JDK 1.7.
 
 ## Demo
