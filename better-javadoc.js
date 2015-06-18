@@ -1,15 +1,9 @@
 var disqus_shortname = 'betterjavadocexample';
 
 (function() {
-    var div = document.createElement('div');
-    div.setAttribute('id', 'disqus_thread');
-
-    var img = document.createElement('img');
-    img.setAttribute('class', 'bj-ad-img');
-    img.setAttribute('src', '//lh5.ggpht.com/NFYFP2H9CCP50vAQNLa7AtCj_mbbYmOzY978fZqd31oL5qOdvXgxU3KW8ek2VgvIOvTqWY0=w728');
-
-    document.body.appendChild(img);
-    document.body.appendChild(div);
+    document.body.innerHTML += 
+            '<img class="bj-ad-img" src="//lh5.ggpht.com/NFYFP2H9CCP50vAQNLa7AtCj_mbbYmOzY978fZqd31oL5qOdvXgxU3KW8ek2VgvIOvTqWY0=w728">' + 
+            '<div id="disqus_thread"></div>';
 })();
 
 (function() {

@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-import os
-import sys
-import shutil
+import os, sys
 
 rep = '''
 <!-- ======== START OF BETTER-JAVADOC ======== -->
